@@ -5,6 +5,6 @@ Personal portfolio website source code
 I started this project for two reasons. One, I wanted to create my own portfolio page. Two, I wanted to learn about frontend development using Django. This Django portfolio template should give you a starting point on creating your own portfolio page quickly.
 
 I would like to thank the Youtuber's video which I watched to help me create this webpage. The link is below.
-[Corey Schafer's Django Tutorials playlist]https://www.youtube.com/watch?v=UmljXZIypDc&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p
+[Corey Schafer's Django Tutorials playlist](https://www.youtube.com/watch?v=UmljXZIypDc&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
 
-Special thanks to [startbootstrap-resume]https://github.com/BlackrockDigital/startbootstrap-resume for the template. I used this template to create this website.
+Special thanks to [startbootstrap-resume](https://github.com/BlackrockDigital/startbootstrap-resume) for the template. I used this template to create this website.
